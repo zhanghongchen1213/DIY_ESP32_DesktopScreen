@@ -13,7 +13,7 @@
 | 个人博客       | [https://zhcmqtt.top](https://zhcmqtt.top)                                             |
 | CSDN博客       | [https://blog.csdn.net](https://blog.csdn.net/weixin_46477159?spm=1000.2115.3001.5343) |
 | 立创硬件开源   | [https://x.jlc.com](https://oshwhub.com/nhwjxzxz/esp32-ping-mu)                        |
-| GitHub项目开源 | [https://github.com](https://github.com/zhanghongchen1213/Boring_Box)                  |
+| GitHub项目开源 | [https://github.com](https://github.com/zhanghongchen1213/DIY_ESP32_DesktopScreen)     |
 
 **视频演示**
 
