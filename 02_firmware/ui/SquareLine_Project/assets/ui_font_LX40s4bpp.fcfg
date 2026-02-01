@@ -1,0 +1,16 @@
+{
+  "codename": "LX40s4bpp",
+  "ttf_path": "\\assets\\字魂龙行龘龘体.ttf",
+  "bin_path": "\\assets\\ui_font_LX40s4bpp.bin",
+  "c_path": "\\assets\\ui_font_LX40s4bpp.c",
+  "cfg_path": "\\assets\\ui_font_LX40s4bpp.fcfg",
+  "size": 40,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "晴多云阴雪雨℃青岛",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

@@ -1,0 +1,16 @@
+{
+  "codename": "BG30s4bpp",
+  "ttf_path": "\\assets\\字魂白鸽天行体.ttf",
+  "bin_path": "\\assets\\ui_font_BG30s4bpp.bin",
+  "c_path": "\\assets\\ui_font_BG30s4bpp.c",
+  "cfg_path": "\\assets\\ui_font_BG30s4bpp.fcfg",
+  "size": 30,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "周一周二周三周四周五周六周日晴多云阴雪雨℃青岛",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
