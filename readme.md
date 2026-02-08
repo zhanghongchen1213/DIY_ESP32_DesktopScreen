@@ -17,10 +17,10 @@
 
 **视频演示**
 
-[![点击观看视频](https://i.imgs.ovh/2026/02/01/ynSMQe.md.jpeg)](https://ug.link/nas-zhang-GgrM/filemgr/share-download/?id=17aac97213164867bade062b2b785334)
+[![点击观看视频](https://i.imgs.ovh/2026/02/01/ynSMQe.md.jpeg)](https://www.bilibili.com/video/BV1iW6xBPE7T/)
 
 > 📺 **视频作者**：B站 @鸿尘客
-> 🔗 **视频链接**：[桌面墨水屏摆件](https://ug.link/nas-zhang-GgrM/filemgr/share-download/?id=17aac97213164867bade062b2b785334)
+> 🔗 **视频链接**：[桌面墨水屏摆件](https://www.bilibili.com/video/BV1iW6xBPE7T/)
 
 ---
 
